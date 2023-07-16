@@ -67,7 +67,7 @@ blockquote {
 .page__title:hover::before {
   position: absolute;
   content: "На самом деле нет. \AВажнее &mdash; научиться ошибаться.";
-  inset: 50px;
+  inset: 125px 0 0 712px;
   white-space: pre;
   width: 742px;
   height: 142px;
